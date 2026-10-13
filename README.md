@@ -1,6 +1,6 @@
-# Nixora
+# Nexora
 
-Website for Nixora — *Intelligent Living. Connected Spaces. Smarter Future.*
+Website for Nexora — *Intelligent Living. Connected Spaces. Smarter Future.*
 
 Built with Next.js (App Router) and plain CSS.
 
